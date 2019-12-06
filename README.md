@@ -1,2 +1,2 @@
 ### Job Management & Tracking System (JMTS) Application Programming Interface (API)
-A RESTful website for the Job Management &amp; Tracking System (JMTS).
+A RESTful web service for the Job Management &amp; Tracking System (JMTS).
